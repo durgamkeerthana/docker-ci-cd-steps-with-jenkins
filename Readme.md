@@ -2,7 +2,7 @@
 
 ## Description
 I have written the jenkins pipeline to build docker images. It includes steps to install the npm dependencies, as it is node pplication, test cases along with covergae, and steps to install, build, tag and push the docker image. Here, I am attaching the pipeline along with the output images.
-## ## Jenkins pipeline
+## Jenkins pipeline
 
 ```bash
 pipeline {
